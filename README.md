@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Max Whitney
 - 👀 I’m interested in Web Dev and Computer Science
 - 🌱 I’m currently learning How to code in HTML, C#, and JavaScript
-- 💞️ I’m looking to collaborate on School projects with friends
+- 💞️ I’m looking to collaborate on "School Projects" with friends/classmates
 - 📫 How to reach me yentihwxam@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also pay volleyball
